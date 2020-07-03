@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427071364215",
+    "firebase_url": "https://myfamilytracker-67de7.firebaseio.com",
+    "project_id": "myfamilytracker-67de7",
+    "storage_bucket": "myfamilytracker-67de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427071364215:android:89a286e31abba074053a72",
+        "android_client_info": {
+          "package_name": "com.chetan.myfamilytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427071364215-rmckkkptma119q9qd64todam2pptc1pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2iDpQSfBiHAg93viNe5oz6s7KXGgb5EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427071364215-rmckkkptma119q9qd64todam2pptc1pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

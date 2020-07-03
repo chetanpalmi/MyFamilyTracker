@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=AA:A7:AE:B5:6F:30:50:07:C7:12:83:E2:7E:5B:9E:02:4E:42:38:8D%3Bcom.chetan.myfamilytracker
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.chetan.myfamilytracker
+
+    SHA-1 certificate fingerprint:
+    AA:A7:AE:B5:6F:30:50:07:C7:12:83:E2:7E:5B:9E:02:4E:42:38:8D
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCHeWaywM2qCGzX03Lk1TMf3kmzLa28SCY</string>
+</resources>
